@@ -3,9 +3,8 @@
 //  main.c
 //  PhoneBook using DataStructures
 //
-//  Created by kushal on 10/11/19.
+//  Created by kushal and Abhishek on 10/11/19.
 //  Copyright © 2019 kushal. All rights reserved.
-//  SRN:PES1201801481
 
 #include <stdio.h>
 #include <stdlib.h>
